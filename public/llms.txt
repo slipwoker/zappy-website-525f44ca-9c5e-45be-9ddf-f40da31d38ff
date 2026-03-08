@@ -1,0 +1,59 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### בית
+https://example.com
+גלו את הקשר המרתק בין פרשת השבוע לאקטואליה היומיומית. אתר חדשות ייחודי המחבר בין תורה לחדשות עכשוויות עם ניתוחים מעמיקים ורלוונטיים למציאות שלנו.
+
+### אודות
+https://example.com/about
+למדו על הצוות והחזון שמאחורי האתר המוביל לחיבור בין דברי תורה לחדשות השבוע. אנחנו מביאים לכם עיתונאות איכותית עם נגיעה רוחנית ייחודית שמעשירה את ההבנה.
+
+### כיסוי
+https://example.com/coverage
+צפו בכיסוי העיתונאי המקיף שלנו המשלב דברי תורה על חדשות השבוע. ניתוחים מעמיקים, פרשנויות מרתקות וקשרים מפתיעים בין האקטואליה לפרשת השבוע - הכל במקום אחד.
+
+### צור קשר
+https://example.com/contact
+יש לכם חדשה? רעיון לקשר בין פרשת השבוע לאקטואליה? צרו קשר עם מערכת החדשות שלנו. אנחנו כאן כדי לשמוע אתכם ולהביא את הקול שלכם לכותרות.
+
+### Products
+https://example.com/products
+המוצרים שלנו - החדשות בפרשת השבוע
+
+### Product Detail
+https://example.com/product/:slug
+פרטי המוצר - החדשות בפרשת השבוע
+
+### Category
+https://example.com/category/:slug
+מוצרים - החדשות בפרשת השבוע
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
